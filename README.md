@@ -1,11 +1,5 @@
 ---
 title: HH-MPNN ACOPF Decision Support Tool
-emoji: ⚡
-colorFrom: green
-colorTo: red
-sdk: docker
-app_port: 8501
-pinned: false
 ---
 
 # HH-MPNN ACOPF Decision Support Tool
