@@ -34,8 +34,7 @@ RESULTS_PATH = f'./results_{SYSTEM_SIZE}_year.npz'
 # (Streamlit Community Cloud deployment: the .npz is too large for a normal
 # GitHub repo file, so it is attached to a GitHub RELEASE and downloaded on
 # first startup).
-RESULTS_URL = ('https://github.com/<user>/<repo>/releases/download/'
-               f'v1.0/results_{SYSTEM_SIZE}_year.npz')
+RESULTS_URL = (https://github.com/Oarowolo11/HH-MPNN-Decision-Support-Tool/releases/download/yearly_result/results_118_year.npz)
 
 STEP_MINUTES = 15                       # one scenario per 15 minutes
 YEAR_START = datetime.datetime(2026, 1, 1, 0, 0)  # timestamp of scenario 0
