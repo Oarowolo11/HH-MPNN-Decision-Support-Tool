@@ -12,7 +12,7 @@ pinned: false
 
 Streamlit dashboard serving precomputed ACOPF surrogate inference from a
 Hybrid Heterogeneous Message Passing Neural Network (HH-MPNN) on the
-IEEE 118-bus system.
+IEEE 118-bus system. Read our paper here: https://www.sciencedirect.com/science/article/pii/S2666546826001680
 
 - **Load data**: realistic yearly load profile from the Romanian grid,
   scaled for the IEEE-118 bus grid — 35040 scenarios at 15-minute resolution.
