@@ -1,6 +1,3 @@
----
-title: HH-MPNN ACOPF Decision Support Tool
----
 
 # HH-MPNN ACOPF Decision Support Tool
 
